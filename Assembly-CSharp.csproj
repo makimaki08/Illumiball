@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets/Script/GravityController.cs" />
     <Compile Include="Assets/Script/Hole.cs" />
+    <Compile Include="Assets/Script/GameClearDetector.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
